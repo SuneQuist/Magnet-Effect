@@ -11,7 +11,9 @@
     "url": "git+https://github.com/SuneQuist/Magnet-Effect.git"
   },
   "keywords": [
-    "SuneQuist"
+    "magneteffect",
+    "effect",
+    "interaction"
   ],
   "author": "Sune Quist",
   "license": "ISC",
