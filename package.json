@@ -1,6 +1,6 @@
 {
   "name": "magneteffect",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Magnet Effect",
   "main": "index.js",
   "scripts": {
